@@ -36,7 +36,7 @@ To get started with the **Autogen** solution repository, follow these steps:
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](autogen.png)  <br>
+ ![additional_image](AI agents.png)  <br>![additional_image](autogen.png)  <br>
     
 
 ## Github    
