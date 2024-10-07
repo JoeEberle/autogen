@@ -6,9 +6,9 @@ Use autogen AI agents to perform workflows and LLM integrations.
 
 ![Image image_filename](code.png)
 
-Welcome to the solution **Autogen** - an example for your projects
+**AutoGen** is a framework designed to automate the process of creating and orchestrating multiple AI agents that collaborate to complete complex tasks. It leverages large language models (LLMs), like those used in natural language processing, and allows different agents to communicate, plan, and problem-solve together. Instead of relying on a single AI to perform an entire task, AutoGen sets up an ecosystem where multiple AI agents specialize in different aspects of the problem, working interactively to produce more accurate and complex outcomes.
 
-Use autogen AI agents to perform workflows and LLM integrations.
+AutoGen has the potential to **revolutionize AI** because it dramatically extends the capabilities of individual AI models by allowing them to work collaboratively and autonomously. This approach opens up possibilities for AI systems to tackle multifaceted challenges that require specialized knowledge across domains, enhancing efficiency and performance. Additionally, AutoGen can reduce the need for manual intervention, allowing AI agents to autonomously refine their workflows, improve decision-making, and generate solutions that were previously too complex for a single AI model to handle. This collaborative framework could be applied in various industries, including healthcare, finance, and logistics, paving the way for more sophisticated, self-sufficient AI ecosystems.
 
 ![Image image_filename](sample.png)
 
@@ -36,7 +36,7 @@ To get started with the **Autogen** solution repository, follow these steps:
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](AI agents.png)  <br>![additional_image](autogen.png)  <br>
+ ![additional_image](AI agents.png)  <br>![additional_image](AI conversations.png)  <br>![additional_image](autogen.png)  <br>
     
 
 ## Github    
