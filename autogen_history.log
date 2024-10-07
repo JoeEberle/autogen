@@ -26,3 +26,31 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-07 00:17:17,157 - INFO - START autogen =============================================
+2024-10-07 00:17:17,158 - INFO - START autogen Start Time = 2024-10-07 00:17:17
+2024-10-07 00:17:17,158 - INFO - autogen Step 0 - Initialize the configuration file parser
+2024-10-07 00:17:17,158 - INFO - Process autogen Step 0 - Initializing and starting Logging Process.
+2024-10-07 00:17:17,249 - INFO - PERFORMANCE autogen The total process duration was:0.09
+2024-10-07 00:17:17,250 - INFO - PERFORMANCE autogen Stop Time = 2024-10-07 00:17:17
+2024-10-07 00:17:17,250 - INFO - PERFORMANCE autogen Short process duration less than 3 Seconds:0.09
+2024-10-07 00:17:17,250 - INFO - PERFORMANCE autogen Performance optimization is not reccomended
+2024-10-07 00:17:17,250 - INFO - END autogen =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-07 00:18:11,910 - INFO - START autogen =============================================
+2024-10-07 00:18:11,910 - INFO - START autogen Start Time = 2024-10-07 00:18:11
+2024-10-07 00:18:11,910 - INFO - autogen Step 0 - Initialize the configuration file parser
+2024-10-07 00:18:11,911 - INFO - Process autogen Step 0 - Initializing and starting Logging Process.
+2024-10-07 00:18:12,003 - INFO - PERFORMANCE autogen The total process duration was:0.09
+2024-10-07 00:18:12,003 - INFO - PERFORMANCE autogen Stop Time = 2024-10-07 00:18:12
+2024-10-07 00:18:12,003 - INFO - PERFORMANCE autogen Short process duration less than 3 Seconds:0.09
+2024-10-07 00:18:12,003 - INFO - PERFORMANCE autogen Performance optimization is not reccomended
+2024-10-07 00:18:12,003 - INFO - END autogen =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
