@@ -1,9 +1,9 @@
-2024-10-16 00:20:45,759 - INFO - START autogen =============================================
-2024-10-16 00:20:45,759 - INFO - START autogen Start Time = 2024-10-16 00:20:45
-2024-10-16 00:20:45,760 - INFO - autogen Step 0 - Initialize the configuration file parser
-2024-10-16 00:20:45,760 - INFO - Process autogen Step 0 - Initializing and starting Logging Process.
-2024-10-16 00:20:49,164 - INFO - PERFORMANCE autogen The total process duration was:3.40
-2024-10-16 00:20:49,164 - INFO - PERFORMANCE autogen Stop Time = 2024-10-16 00:20:49
-2024-10-16 00:20:49,164 - INFO - PERFORMANCE autogen Low process duration less than 3 minutes:3.40
-2024-10-16 00:20:49,164 - INFO - PERFORMANCE autogen Performance optimization is optional
-2024-10-16 00:20:49,164 - INFO - END autogen =============================================
+2024-10-17 00:42:14,654 - INFO - START autogen =============================================
+2024-10-17 00:42:14,654 - INFO - START autogen Start Time = 2024-10-17 00:42:14
+2024-10-17 00:42:14,654 - INFO - autogen Step 0 - Initialize the configuration file parser
+2024-10-17 00:42:14,654 - INFO - Process autogen Step 0 - Initializing and starting Logging Process.
+2024-10-17 00:42:16,867 - INFO - PERFORMANCE autogen The total process duration was:2.21
+2024-10-17 00:42:16,868 - INFO - PERFORMANCE autogen Stop Time = 2024-10-17 00:42:16
+2024-10-17 00:42:16,868 - INFO - PERFORMANCE autogen Short process duration less than 3 Seconds:2.21
+2024-10-17 00:42:16,868 - INFO - PERFORMANCE autogen Performance optimization is not reccomended
+2024-10-17 00:42:16,868 - INFO - END autogen =============================================
