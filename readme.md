@@ -101,10 +101,6 @@ We welcome contributions to improve the Autogen project. To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
 ---
 
 This **README.md** provides a clear overview of the project, instructions for getting started, and a breakdown of the notebook’s contents. It ensures users can quickly set up the environment and understand the purpose of Autogen within the Jupyter Notebook context.
