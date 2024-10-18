@@ -100,21 +100,18 @@ This **README.md** provides a clear overview of the project, instructions for ge
 
 ![Image image_filename](sample.png)
 ## Getting Started
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 To get started with the **Autogen** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     ![Image image_filename](solution_features.png)
-## Solution Features
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-
 ## Notebook Features
 
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+These Features are design to provide everything you need for **Knowledge Transfer** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -126,7 +123,7 @@ The goal of this solution is to **Jump Start** your development and have you up 
 - **Educational** - Includes educational dialogue and background material
     
 ## List of Figures
- ![additional_image](AI agents.png)  <br>![additional_image](AI conversations.png)  <br>![additional_image](autogen.png)  <br>![additional_image](solution_features.png)  <br>
+ ![additional_image](AI agents.png)  <br>![additional_image](AI conversations.png)  <br>![additional_image](autogen.png)  <br>
     
 
 ## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
