@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Autogen 
-    ## Use autogen AI agents to perform workflows and LLM integrations.
+    
+# Autogen 
+
+## Use autogen AI agents to perform workflows and LLM integrations.
+
     ![Image image_filename](Autogen.png)
 **AutoGen** is a framework designed to automate the process of creating and orchestrating multiple AI agents that collaborate to complete complex tasks. It leverages large language models (LLMs), like those used in natural language processing, and allows different agents to communicate, plan, and problem-solve together. Instead of relying on a single AI to perform an entire task, AutoGen sets up an ecosystem where multiple AI agents specialize in different aspects of the problem, working interactively to produce more accurate and complex outcomes.
 
@@ -112,9 +115,9 @@ To get started with the **Autogen** solution repository, follow these steps:
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     ## Getting Started## Getting Started![Image image_filename](solution_features.png)
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Autogen** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -124,6 +127,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](AI agents.png)  <br>![additional_image](AI conversations.png)  <br>![additional_image](autogen.png)  <br>
