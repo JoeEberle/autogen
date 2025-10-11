@@ -14,7 +14,7 @@
 AutoGen has the potential to **revolutionize AI** because it dramatically extends the capabilities of individual AI models by allowing them to work collaboratively and autonomously. This approach opens up possibilities for AI systems to tackle multifaceted challenges that require specialized knowledge across domains, enhancing efficiency and performance. Additionally, AutoGen can reduce the need for manual intervention, allowing AI agents to autonomously refine their workflows, improve decision-making, and generate solutions that were previously too complex for a single AI model to handle. This collaborative framework could be applied in various industries, including healthcare, finance, and logistics, paving the way for more sophisticated, self-sufficient AI ecosystems.
 
 
-Here’s a **README.md** file for your **Autogen** project that introduces using autogen to create AI agents within a **Jupyter Notebook**:
+Here�s a **README.md** file for your **Autogen** project that introduces using autogen to create AI agents within a **Jupyter Notebook**:
 
 ---
 
@@ -106,7 +106,7 @@ We welcome contributions to improve the Autogen project. To contribute:
 
 ---
 
-This **README.md** provides a clear overview of the project, instructions for getting started, and a breakdown of the notebook’s contents. It ensures users can quickly set up the environment and understand the purpose of Autogen within the Jupyter Notebook context.
+This **README.md** provides a clear overview of the project, instructions for getting started, and a breakdown of the notebook�s contents. It ensures users can quickly set up the environment and understand the purpose of Autogen within the Jupyter Notebook context.
 
 
 ![Solution](code.png)
