@@ -4,11 +4,7 @@
 
 ## Use autogen AI agents to perform workflows and LLM integrations.
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 **AutoGen** is a framework designed to automate the process of creating and orchestrating multiple AI agents that collaborate to complete complex tasks. It leverages large language models (LLMs), like those used in natural language processing, and allows different agents to communicate, plan, and problem-solve together. Instead of relying on a single AI to perform an entire task, AutoGen sets up an ecosystem where multiple AI agents specialize in different aspects of the problem, working interactively to produce more accurate and complex outcomes.
 
 AutoGen has the potential to **revolutionize AI** because it dramatically extends the capabilities of individual AI models by allowing them to work collaboratively and autonomously. This approach opens up possibilities for AI systems to tackle multifaceted challenges that require specialized knowledge across domains, enhancing efficiency and performance. Additionally, AutoGen can reduce the need for manual intervention, allowing AI agents to autonomously refine their workflows, improve decision-making, and generate solutions that were previously too complex for a single AI model to handle. This collaborative framework could be applied in various industries, including healthcare, finance, and logistics, paving the way for more sophisticated, self-sufficient AI ecosystems.
@@ -108,13 +104,7 @@ We welcome contributions to improve the Autogen project. To contribute:
 
 This **README.md** provides a clear overview of the project, instructions for getting started, and a breakdown of the notebook�s contents. It ensures users can quickly set up the environment and understand the purpose of Autogen within the Jupyter Notebook context.
 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
